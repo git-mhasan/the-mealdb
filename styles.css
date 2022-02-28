@@ -10,3 +10,6 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+#hr-bar{
+    display: none;
+}
